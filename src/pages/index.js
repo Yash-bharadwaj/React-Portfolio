@@ -26,13 +26,11 @@ export default function Home() {
     <>
       <main>
         <HeroSection />
-       
-        <DevProjects />
-
         <UIUXSection />
+        <DevProjects />
         <Gfx />
 
-        <Blog />
+        {/* <Blog /> */}
         <ContactSection />
       </main>
     </>

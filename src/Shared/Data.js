@@ -21,12 +21,6 @@ export const uxProjects = [
     projectName: "get belle app concept",
     image: require("../../public/images/uiuxProjects/getbele.png"),
   },
-  // {
-  //   id: 4,
-  //   title: "spotifyProfile",
-  //   projectName: "spotify profile page redesign",
-  //   image: require("../../public/images/uiuxProjects/spotifyRedesign.jpg"),
-  // },
   {
     id: 5,
     title: "starbi",
@@ -93,10 +87,10 @@ export const GfxDesigns = [
     id: 3,
     path: require("../../public/images/gfx/Festive.png"),
   },
-  {
-    id: 4,
-    path: require("../../public/images/gfx/Comedy.png"),
-  },
+  // {
+  //   id: 4,
+  //   path: require("../../public/images/gfx/Comedy.png"),
+  // },
   {
     id: 5,
     path: require("../../public/images/gfx/Classes.png"),

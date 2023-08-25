@@ -5,9 +5,9 @@ import styles from "@/styles/Contact.module.scss";
 /* ICONS */
 import { FaBehance, FaInstagram, FaWhatsapp } from "react-icons/fa";
 import { FaLinkedinIn } from "react-icons/fa";
-import { FaDribbble } from "react-icons/fa";
+// import { FaDribbble } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import { FaTwitter } from "react-icons/fa";
+// import { FaTwitter } from "react-icons/fa";
 
 /*  */
 

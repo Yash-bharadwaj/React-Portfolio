@@ -35,7 +35,7 @@ const HeroSection = () => {
             <button>Check out my works!</button>
           </Link>
           <a
-            href="https://drive.google.com/file/d/1KEYsyVBNU3LLHr2t-vygXRbV4sJBWsRu/view?usp=sharing"
+            href="https://drive.google.com/file/d/1TzD8MhI4CT8wy2KLOC3k9rSwArr4LhMR/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.resume}

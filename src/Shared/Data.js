@@ -7,14 +7,14 @@ export const uxProjects = [
       "Designed an application where users can securely store Passwords, Credit Cards, and Secure Notes.",
     image: require("../../public/images/uiuxProjects/Passmate.png"),
   },
-  {
-    id: 2,
-    title: "eveels",
-    projectName: "eveels",
-    projectDesc:
-      "An app designed to bring the future at your fingertips by providing easy access to all things EV for you and creating a hassle-free relationship amongst the buyer and the seller.",
-    image: require("../../public/images/uiuxProjects/eveels.png"),
-  },
+  // {
+  //   id: 2,
+  //   title: "eveels",
+  //   projectName: "eveels",
+  //   projectDesc:
+  //     "An app designed to bring the future at your fingertips by providing easy access to all things EV for you and creating a hassle-free relationship amongst the buyer and the seller.",
+  //   image: require("../../public/images/uiuxProjects/eveels.png"),
+  // },
   {
     id: 3,
     title: "get-bele",
@@ -27,12 +27,12 @@ export const uxProjects = [
     projectName: "starbucks product page redesign",
     image: require("../../public/images/uiuxProjects/starbi.png"),
   },
-  {
-    id: 6,
-    title: "repairify",
-    projectName: "repair service app concept",
-    image: require("../../public/images/uiuxProjects/repairify.jpg"),
-  },
+  // {
+  //   id: 6,
+  //   title: "repairify",
+  //   projectName: "repair service app concept",
+  //   image: require("../../public/images/uiuxProjects/repairify.jpg"),
+  // },
 ];
 
 export const DevelopmentProjects = [
@@ -56,11 +56,11 @@ export const DevelopmentProjects = [
   },
   {
     id: 3,
-    title: "React Quotes App",
-    desc: "A simple random quote generator",
+    title: "React Restaurant app",
+    desc: "A beautiful restaurant website",
     stack: "ReactJs",
-    link: "https://reactquotes-app.netlify.app/",
-    image: require("../../public/images/developmentProjects/quotes.png"),
+    link: "https://voluble-clafoutis-d417cf.netlify.app",
+    image: require("../../public/images/developmentProjects/react-resto.png"),
     color: "#FFE6E6",
   },
   {
@@ -70,6 +70,15 @@ export const DevelopmentProjects = [
     stack: "ReactJs",
     link: "https://github.com/Yash-bharadwaj/ReactWebSite",
     image: require("../../public/images/developmentProjects/ReactWebsite.png"),
+    color: "#CCF3EE",
+  },
+  {
+    id: 5,
+    title: "VMR Convention",
+    desc: "Freelance Website for a Convention Hall",
+    stack: "Wordpress",
+    link: "https://vmrconvention.in/",
+    image: require("../../public/images/developmentProjects/vmrconvention.png"),
     color: "#CCF3EE",
   },
 ];

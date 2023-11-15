@@ -10,7 +10,7 @@ const HeroSection = () => {
         <div className={styles.heroIntro}>
           <p data-aos="fade-down">Hi! my name is Yash, I love</p>
           <h1 data-aos="fade-down" data-aos-delay="200">
-            building <span className={styles.heroColor}>Solutions</span> through{" "}
+            Building <span className={styles.heroColor}>solutions</span> through{" "}
             <span className={styles.heroColor2}>Code</span>.
           </h1>
           <div className={styles.heroShortIntro}>

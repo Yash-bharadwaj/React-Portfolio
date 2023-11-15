@@ -39,7 +39,7 @@ const Navbar = () => {
             </Link>
           )}
           <a
-            href="https://drive.google.com/file/d/1KEYsyVBNU3LLHr2t-vygXRbV4sJBWsRu/view?usp=sharing"
+            href="https://drive.google.com/file/d/1V1jB_Cbl0_OpftLRb5vJdwDDKytIsXup/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.resume}

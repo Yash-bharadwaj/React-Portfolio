@@ -19,8 +19,8 @@ const HeroSection = () => {
               data-aos-delay="400"
               data-aos-anchor=".heroIntro"
             >
-              Final Year Computer Engineering student from Hyderabad, working as a
-              freelance User Experience Designer since a year and currently
+              A Computer Engineering graduate from Hyderabad, working as a
+              freelance Software Developer since a year and currently
               building cool stuff with ReactJS.
             </p>
           </div>
@@ -32,8 +32,9 @@ const HeroSection = () => {
           data-aos-anchor=".heroShortIntro"
         >
           <Link to="uiux" smooth={true} className={styles.heroCtaButtonLink}>
-            <button>Check out my works!</button>
+            <button>My Resume</button>
           </Link>
+          
           <a
             href="https://drive.google.com/file/d/1GLgCnyPGjuG3JvJwjow-5PDS8kZDElsI/view?usp=sharing"
             target="_blank"

@@ -68,7 +68,7 @@ export const DevelopmentProjects = [
     title: "AI Static Website",
     desc: "Engineered a responsive React website showcasing dynamic web solutions creatively.",
     stack: "ReactJs",
-    link: "https://github.com/Yash-bharadwaj/ReactWebSite",
+    link: "https://react-web-site-five.vercel.app/",
     image: require("../../public/images/developmentProjects/ReactWebsite.png"),
     color: "#CCF3EE",
   },
@@ -81,6 +81,7 @@ export const DevelopmentProjects = [
     image: require("../../public/images/developmentProjects/vmrconvention.png"),
     color: "#CCF3EE",
   },
+ 
 ];
 
 export const GfxDesigns = [

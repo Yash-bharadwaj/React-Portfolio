@@ -10,8 +10,8 @@ const HeroSection = () => {
         <div className={styles.heroIntro}>
           <p data-aos="fade-down">Hi! my name is Yash, I love</p>
           <h1 data-aos="fade-down" data-aos-delay="200">
-            building <span className={styles.heroColor}>products</span> and{" "}
-            <span className={styles.heroColor2}>experiences</span>.
+            building <span className={styles.heroColor}>Solutions</span> through{" "}
+            <span className={styles.heroColor2}>Code</span>.
           </h1>
           <div className={styles.heroShortIntro}>
             <p
@@ -32,7 +32,7 @@ const HeroSection = () => {
           data-aos-anchor=".heroShortIntro"
         >
           <Link to="uiux" smooth={true} className={styles.heroCtaButtonLink}>
-            <button>My Resume</button>
+            <button>Check Out My Work!</button>
           </Link>
           
           <a

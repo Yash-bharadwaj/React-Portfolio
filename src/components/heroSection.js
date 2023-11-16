@@ -36,7 +36,7 @@ const HeroSection = () => {
           </Link>
           
           <a
-            href="https://drive.google.com/file/d/1GLgCnyPGjuG3JvJwjow-5PDS8kZDElsI/view?usp=sharing"
+            href="https://drive.google.com/file/d/1V1jB_Cbl0_OpftLRb5vJdwDDKytIsXup/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.resume}

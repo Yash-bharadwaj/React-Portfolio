@@ -19,9 +19,7 @@ const HeroSection = () => {
               data-aos-delay="400"
               data-aos-anchor=".heroIntro"
             >
-              A Computer Engineering graduate from Hyderabad, working as a
-              freelance Software Developer since a year and currently
-              building cool stuff with ReactJS.
+             Hi there! I'm Yashwanth Bharadwaj, a passionate Frontend Developer and Graphic Designer with a solid 2-year track record in the industry. Proficient in React.js, HTML, CSS, Bootstrap, Wix, and WordPress, I've garnered over 4 lakhs+ in earnings through freelancing. My journey in tech has been marked by creativity, problem-solving, and a commitment to delivering top-notch designs and user-friendly interfaces.
             </p>
           </div>
         </div>
@@ -31,12 +29,12 @@ const HeroSection = () => {
           data-aos-delay="600"
           data-aos-anchor=".heroShortIntro"
         >
-          <Link to="uiux" smooth={true} className={styles.heroCtaButtonLink}>
+          <Link to="dev" smooth={true} className={styles.heroCtaButtonLink}>
             <button>Check Out My Work!</button>
           </Link>
           
           <a
-            href="https://drive.google.com/file/d/1V1jB_Cbl0_OpftLRb5vJdwDDKytIsXup/view?usp=sharing"
+            href="https://drive.google.com/file/d/1gcysubVsd3kaq1NbwXrktVqhJw6TG0SN/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.resume}

@@ -10,7 +10,7 @@ const DevProjectCard = ({ development }) => {
     <div
       className={styles.devProjectCard}
       data-aos="fade-up"
-      data-aos-delay="200"
+      data-aos-delay="100"
     >
       <div className={styles.devProjectCardContainer}>
         <div className={styles.devProjectDetails}>
@@ -27,7 +27,7 @@ const DevProjectCard = ({ development }) => {
         </div>
         <div className={styles.devProjectCardButton}>
           <a href={link} target="_blank" rel="noreferrer">
-            <button>check out !</button>
+            <button>check out!</button>
           </a>
         </div>
       </div>

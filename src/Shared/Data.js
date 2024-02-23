@@ -37,16 +37,28 @@ export const uxProjects = [
 
 export const DevelopmentProjects = [
   {
+
     id: 1,
+    title: "Raja Rani Ruchulu Restaurant",
+    desc: "Discover global flavors at Raja Rani Ruchulu, where diverse cuisines unite for a delightful experience.",
+    stack: "HTML, CSS, JS, Bootstrap, Figma, Canva",
+    link: "https://www.rajaraniruchulu.com/",
+    image: require("../../public/images/developmentProjects/Rajarani.png"),
+    color: "#CDF0EA",
+  },
+  
+  {
+
+    id: 2,
     title: "Website for Consultant Company",
     desc: "website for Indus Global Hospitality, highlighting expertise and services, ensuring smooth browsing",
-    stack: "Wordpress, HTML, CSS",
+    stack: "Wordpress, HTML, CSS, Canva, Figma",
     link: "https://indusglobalconsultants.com/",
     image: require("../../public/images/developmentProjects/IndusWebsite.png"),
     color: "#CDF0EA",
   },
   {
-    id: 2,
+    id: 3,
     title: "Movie Rating Website",
     desc: "Crafted dynamic movie rating site using HTML, CSS, Bootstrap, JavaScript. Leveraged MoviesDB API for live content.",
     stack: "HTML5, CSS, JAVASCRIPT, REST API",
@@ -55,28 +67,28 @@ export const DevelopmentProjects = [
     color: "#FAF4B7",
   },
   {
-    id: 3,
+    id: 4,
     title: "React Restaurant app",
     desc: "A beautiful restaurant website",
-    stack: "ReactJs",
+    stack: "ReactJs, Figma, HTML, CSS, JS",
     link: "https://voluble-clafoutis-d417cf.netlify.app",
     image: require("../../public/images/developmentProjects/react-resto.png"),
     color: "#FFE6E6",
   },
   {
-    id: 4,
-    title: "AI Static Website",
+    id: 5,
+    title: "AI Website Using React(Static)",
     desc: "Engineered a responsive React website showcasing dynamic web solutions creatively.",
-    stack: "ReactJs",
+    stack: "ReactJs, Figma, HTML, CSS, JS",
     link: "https://react-web-site-five.vercel.app/",
     image: require("../../public/images/developmentProjects/ReactWebsite.png"),
     color: "#CCF3EE",
   },
   {
-    id: 5,
+    id: 6,
     title: "VMR Convention",
-    desc: "Freelance Website for a Convention Hall",
-    stack: "Wordpress",
+    desc: "Crafted freelance website for VMR Convention(Tirupati), highlighting spaces, services, and seamless booking experience.",
+    stack: "Wordpress, Figma, HTML, CSS",
     link: "https://vmrconvention.in/",
     image: require("../../public/images/developmentProjects/vmrconvention.png"),
     color: "#CCF3EE",

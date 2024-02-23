@@ -3,7 +3,7 @@ import React from "react";
 /* STYLING */
 import styles from "@/styles/Contact.module.scss";
 /* ICONS */
-import { FaBehance, FaInstagram, FaWhatsapp } from "react-icons/fa";
+import { FaBehance, FaInstagram, FaWhatsapp, FaPinterest } from "react-icons/fa";
 import { FaLinkedinIn } from "react-icons/fa";
 // import { FaDribbble } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
@@ -67,8 +67,8 @@ const ContactSection = () => {
             delay="1200"
           />
            <ContactLink
-            Icon={FaBehance}
-            link="#"
+            Icon={FaPinterest}
+            link="https://www.pinterest.co.uk/yashwanthbharadwaj/_created/"
             delay="1400"
           />
         </div>

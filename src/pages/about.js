@@ -13,21 +13,17 @@ export default function About() {
             <div className={styles.aboutContainer}>
               <div className={styles.aboutInfo}>
                 <p data-aos="fade-up" data-aos-delay="200">
-                  I&#39;m a self-taught Web-Devloper and Graphic Designer who is now
-                  learning React JS. I have pursued my
+                  I&#39;m a self-taught Web-Devloper and Graphic Designer. I have pursued my
                   Bachelor&#39;s Degree in Computer Engineering from Andhra
                   University, graduation in 2023.
                 </p>
                 <p data-aos="fade-up" data-aos-delay="300">
-                  I have more than a year of experience in as a Web-Developer & user experience
-                  designing . I&#39;ve worked as a freelance designer and helped
+                  I have more than a year of experience in as a Web-Developer. I&#39;ve working as a freelance designer and helped
                   many clients, colleagues get their ideas designed. I worked as
-                  a Front-End devloper for our official college website.
+                  a Front-End devloper for our official college website.I am currently working in a german based company as a front developer Intern(From Sept 2023 to March 2024).
                 </p>
                 <p data-aos="fade-up" data-aos-delay="400">
-                  I have 1.5 years of Web-Devloper expertise. As part of my
-                  career, I have worked on a variety of Website Devlopement & design projects.
-                  For the year 2023, I was the Technical Head of Carnival Festival in a resort.
+                I'm, a passionate Frontend Developer and Graphic Designer with a solid 2-year track record in the industry. Proficient in React.js, HTML, CSS, Bootstrap, Wix, and WordPress, I've garnered over 4 lakhs+ in earnings through freelancing. My journey in tech has been marked by creativity, problem-solving, and a commitment to delivering top-notch designs and user-friendly interfaces.
                 </p>
               </div>
 

@@ -23,6 +23,11 @@ const HeroSection = () => {
             </p>
           </div>
         </div>
+
+        {/* my image */}
+
+
+        
         <div
           className={styles.heroCta}
           data-aos="fade-down"
@@ -34,12 +39,12 @@ const HeroSection = () => {
           </Link>
           
           <a
-            href="https://drive.google.com/file/d/1gcysubVsd3kaq1NbwXrktVqhJw6TG0SN/view?usp=sharing"
+            href="https://drive.google.com/file/d/1kcDs4Jfc-x1k9ga5b0B-wbcy1WxmAn6C/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.resume}
           >
-            View my Resume
+            View My RESUME
           </a>
         </div>
       </div>

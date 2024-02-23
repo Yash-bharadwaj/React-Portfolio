@@ -12,6 +12,7 @@ export default function About() {
             <h1 data-aos="fade-up">About Me</h1>
             <div className={styles.aboutContainer}>
               <div className={styles.aboutInfo}>
+              {/* eslint-disable react/no-unescaped-entities */}
                 <p data-aos="fade-up" data-aos-delay="200">
                   I&#39;m a self-taught Web-Devloper and Graphic Designer. I have pursued my
                   Bachelor&#39;s Degree in Computer Engineering from Andhra
@@ -26,6 +27,7 @@ export default function About() {
                 I'm, a passionate Frontend Developer and Graphic Designer with a solid 2-year track record in the industry. Proficient in React.js, HTML, CSS, Bootstrap, Wix, and WordPress, I've garnered over 4 lakhs+ in earnings through freelancing. My journey in tech has been marked by creativity, problem-solving, and a commitment to delivering top-notch designs and user-friendly interfaces.
                 </p>
               </div>
+              {/* eslint-enable react/no-unescaped-entities */}
 
               <div className={styles.aboutImage}>
                 <Image

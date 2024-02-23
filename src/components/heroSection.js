@@ -19,10 +19,10 @@ const HeroSection = () => {
               data-aos-delay="400"
               data-aos-anchor=".heroIntro"
             >
-              Hi there! I'm Yashwanth Bharadwaj, a passionate Frontend Developer
+              Hi there! I&apos;m Yashwanth Bharadwaj, a passionate Frontend Developer
               and Graphic Designer with a solid 1-year track record in the
               industry. Proficient in React.js, HTML, CSS, Bootstrap, Wix, and
-              WordPress, I've garnered over 4 lakhs+ in earnings through
+              WordPress, I&apos;ve garnered over 4 lakhs+ in earnings through
               freelancing. My journey in tech has been marked by creativity,
               problem-solving, and a commitment to delivering top-notch designs
               and user-friendly interfaces.

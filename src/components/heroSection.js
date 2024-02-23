@@ -1,5 +1,5 @@
 import React from "react";
-
+import Image from "next/image";
 import styles from "@/styles/HeroSection.module.scss";
 import { Link } from "react-scroll";
 
@@ -19,15 +19,29 @@ const HeroSection = () => {
               data-aos-delay="400"
               data-aos-anchor=".heroIntro"
             >
-             Hi there! I'm Yashwanth Bharadwaj, a passionate Frontend Developer and Graphic Designer with a solid 2-year track record in the industry. Proficient in React.js, HTML, CSS, Bootstrap, Wix, and WordPress, I've garnered over 4 lakhs+ in earnings through freelancing. My journey in tech has been marked by creativity, problem-solving, and a commitment to delivering top-notch designs and user-friendly interfaces.
+              Hi there! I'm Yashwanth Bharadwaj, a passionate Frontend Developer
+              and Graphic Designer with a solid 2-year track record in the
+              industry. Proficient in React.js, HTML, CSS, Bootstrap, Wix, and
+              WordPress, I've garnered over 4 lakhs+ in earnings through
+              freelancing. My journey in tech has been marked by creativity,
+              problem-solving, and a commitment to delivering top-notch designs
+              and user-friendly interfaces.
             </p>
           </div>
         </div>
 
-        {/* my image */}
+        {/* Placeholder for your image */}
+        {/* <div className={styles.heroImage}>
+          <Image
+            src="/images/your-image.jpg"  // Replace with your image path
+            alt="Picture of Yashwanth Bharadwaj"
+            width={500}  // Adjust width based on your design
+            height={500} // Adjust height based on your design
+            data-aos="fade-down"
+            data-aos-delay="500"
+          />
+        </div> */}
 
-
-        
         <div
           className={styles.heroCta}
           data-aos="fade-down"
@@ -37,7 +51,7 @@ const HeroSection = () => {
           <Link to="dev" smooth={true} className={styles.heroCtaButtonLink}>
             <button>Check Out My Work!</button>
           </Link>
-          
+
           <a
             href="https://drive.google.com/file/d/1kcDs4Jfc-x1k9ga5b0B-wbcy1WxmAn6C/view?usp=sharing"
             target="_blank"

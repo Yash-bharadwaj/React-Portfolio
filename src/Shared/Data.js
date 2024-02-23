@@ -43,7 +43,7 @@ export const DevelopmentProjects = [
     desc: "Discover global flavors at Raja Rani Ruchulu, where diverse cuisines unite for a delightful experience.",
     stack: "HTML, CSS, JS, Bootstrap, Figma, Canva",
     link: "https://www.rajaraniruchulu.com/",
-    image: require("../../public/images/developmentProjects/Rajarani.png"),
+    image: require("/public/images/developmentProjects/rajarani.png"),
     color: "#CDF0EA",
   },
   

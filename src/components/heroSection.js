@@ -20,7 +20,7 @@ const HeroSection = () => {
               data-aos-anchor=".heroIntro"
             >
               Hi there! I'm Yashwanth Bharadwaj, a passionate Frontend Developer
-              and Graphic Designer with a solid 2-year track record in the
+              and Graphic Designer with a solid 1-year track record in the
               industry. Proficient in React.js, HTML, CSS, Bootstrap, Wix, and
               WordPress, I've garnered over 4 lakhs+ in earnings through
               freelancing. My journey in tech has been marked by creativity,
@@ -30,17 +30,7 @@ const HeroSection = () => {
           </div>
         </div>
 
-        {/* Placeholder for your image */}
-        {/* <div className={styles.heroImage}>
-          <Image
-            src="/images/your-image.jpg"  // Replace with your image path
-            alt="Picture of Yashwanth Bharadwaj"
-            width={500}  // Adjust width based on your design
-            height={500} // Adjust height based on your design
-            data-aos="fade-down"
-            data-aos-delay="500"
-          />
-        </div> */}
+        
 
         <div
           className={styles.heroCta}

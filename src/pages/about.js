@@ -14,18 +14,11 @@ export default function About() {
               <div className={styles.aboutInfo}>
                 {/* eslint-disable react/no-unescaped-entities */}
                 <p data-aos="fade-up" data-aos-delay="200">
-                  I&apos;m a self-taught Web-Devloper and Graphic Designer. I have pursued my
-                  Bachelor&apos;s Degree in Computer Engineering from Andhra
-                  University, graduation in 2023.
+                Passionate about crafting digital experiences, I am a Web Developer and Graphic Designer fueled by creativity and a commitment to excellence. Armed with a degree in Computer Engineering (2019 - 2023), my journey has unfolded into a 2-year track record of turning concepts into captivating designs. Proficient in React.js, HTML, CSS, Bootstrap, Wix, and WordPress, I've not only mastered technologies but translated this expertise into a remarkable 4 lakhs+ in freelancing earnings.
                 </p>
-                <p data-aos="fade-up" data-aos-delay="300">
-                  I have more than a year of experience as a Web-Developer. I&apos;ve worked as
-                  a freelance designer and helped many clients and colleagues bring their ideas to life. I also worked as a
-                  Front-End developer for our official college website. I am currently working in a German-based company as a Frontend Developer Intern (From Sept 2023 to March 2024).
-                </p>
-                <p data-aos="fade-up" data-aos-delay="400">
-                  I&apos;m a passionate Frontend Developer and Graphic Designer with a solid 2-year track record in the industry. Proficient in React.js, HTML, CSS, Bootstrap, Wix, and WordPress, I&apos;ve garnered over 4 lakhs+ in earnings through freelancing. My journey in tech has been marked by creativity, problem-solving, and a commitment to delivering top-notch designs and user-friendly interfaces.
-                </p>
+               
+                <p data-aos="fade-up" data-aos-delay="400">In roles ranging from a Front-End Developer for our college website to a current intern in a German-based company, I've transformed challenges into opportunities. Every project becomes a canvas for pushing creative boundaries and delivering results that inspire. As I continue navigating the dynamic realm of technology, I am driven by a passion to create transformative experiences, leaving an indelible mark on the world of web development and design.</p>
+               
               </div>
               <div className={styles.aboutImage}>
                 <Image
